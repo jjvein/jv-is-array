@@ -1,0 +1,29 @@
+{
+  "name": "isarray",
+  "version": "1.0.0",
+  "description": "how to test whether it is an array",
+  "main": "index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/jjvein/isarray.git"
+  },
+  "keywords": [
+    "javascript",
+    "array",
+    "array",
+    "test",
+    "array"
+  ],
+  "author": "jjvein",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jjvein/isarray/issues"
+  },
+  "homepage": "https://github.com/jjvein/isarray#readme"
+}
