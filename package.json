@@ -1,5 +1,5 @@
 {
-  "name": "isarray",
+  "name": "jjvein-isarray",
   "version": "1.0.0",
   "description": "how to test whether it is an array",
   "main": "index.js",
