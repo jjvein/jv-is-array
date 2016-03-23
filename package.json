@@ -21,7 +21,7 @@
     "array"
   ],
   "author": "jjvein",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/jjvein/isarray/issues"
   },
